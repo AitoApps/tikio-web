@@ -34,7 +34,7 @@
                                 </div>
                             </div>
                             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                                <a href="/promotion"
+                                <a href="/promotions"
                                     class="font-medium text-gray-500 hover:text-gray-900">Promotions</a>
 
 
@@ -106,15 +106,15 @@
                             Likes!</p>
                         <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                             <div class="rounded-md shadow">
-                                <a href="#"
+                                <a href="https://play.google.com/store/apps/details?id=com.aitoapps.tikio"
                                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">
-                                    Get started </a>
+                                    Download </a>
                             </div>
-                            <div class="mt-3 sm:mt-0 sm:ml-3">
+                            <!-- <div class="mt-3 sm:mt-0 sm:ml-3">
                                 <a href="#"
                                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 md:py-4 md:text-lg md:px-10">
                                     Live demo </a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </main>
