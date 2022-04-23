@@ -15,9 +15,8 @@
                             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                                 <div class="flex items-center justify-between w-full md:w-auto">
                                     <a href="#">
-                                        <span class="sr-only">Workflow</span>
-                                        <img class="h-8 w-auto sm:h-10"
-                                            src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg">
+                                        <span class="sr-only">Tikio</span>
+                                        <img class="h-8 w-auto sm:h-10" src="/images/tikio.png">
                                     </a>
                                     <div class="-mr-2 flex items-center md:hidden">
                                         <button type="button"
@@ -35,15 +34,12 @@
                                 </div>
                             </div>
                             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                                <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Product</a>
+                                <a href="/promotion"
+                                    class="font-medium text-gray-500 hover:text-gray-900">Promotions</a>
 
-                                <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Features</a>
 
-                                <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Marketplace</a>
-
-                                <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Company</a>
-
-                                <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">Log in</a>
+                                <a href="https://play.google.com/store/apps/details?id=com.aitoapps.tikio"
+                                    class="font-medium text-indigo-600 hover:text-indigo-500">Install App</a>
                             </div>
                         </nav>
                     </div>
